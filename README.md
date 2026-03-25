@@ -12,8 +12,8 @@
 
 </div>
 
-<!-- ─── COLORFUL DIVIDER ──────────────────────────────────────── -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<!-- ─── DIVIDER ────────────────────────────────────────────────── -->
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       ABOUT ME SECTION                         -->
@@ -42,8 +42,8 @@ fun_fact: "I don't build demos — I build systems that work in production."
 
 <br clear="both" />
 
-<!-- ─── COLORFUL DIVIDER ──────────────────────────────────────── -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<!-- ─── DIVIDER ────────────────────────────────────────────────── -->
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     TECH STACK & BADGES                        -->
@@ -92,8 +92,8 @@ fun_fact: "I don't build demos — I build systems that work in production."
 
 </div>
 
-<!-- ─── COLORFUL DIVIDER ──────────────────────────────────────── -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<!-- ─── DIVIDER ────────────────────────────────────────────────── -->
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   FEATURED PROJECTS                            -->
@@ -106,7 +106,7 @@ fun_fact: "I don't build demos — I build systems that work in production."
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Drop%20of%20Blood.png" width="20" /> Rakshak
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Drop%20of%20Blood.png" width="20" alt="Blood" /> Rakshak
 **Emergency Blood Supply & Donor Platform**
 > 🏆 Patent Filed — Indian Patent Office (Feb 2026)
 
@@ -119,7 +119,7 @@ fun_fact: "I don't build demos — I build systems that work in production."
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Health%20Worker%20Light%20Skin%20Tone.png" width="20" /> IRIS
+### 👁️ IRIS
 **Retinal Disease Classification**
 > 📄 IEEE OCIT Paper — 95% Accuracy
 
@@ -134,7 +134,7 @@ fun_fact: "I don't build demos — I build systems that work in production."
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speaker%20High%20Volume.png" width="20" /> Urban Sound Classification
+### 🔊 Urban Sound Classification
 **Hybrid Deep Learning for Audio**
 > 📈 92% Accuracy — +20% over baseline
 
@@ -147,9 +147,9 @@ fun_fact: "I don't build demos — I build systems that work in production."
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="20" /> Portfolio Website
+### 🌐 Portfolio Website
 **Personal Portfolio & Blog**
-> 🌐 Live at [ashwinikumarkar.info](https://ashwinikumarkar.info)
+> ✨ Live at [ashwinikumarkar.info](https://ashwinikumarkar.info)
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square) ![Three.js](https://img.shields.io/badge/Three.js-FF6B6B?style=flat-square) ![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square)
 
@@ -162,8 +162,8 @@ fun_fact: "I don't build demos — I build systems that work in production."
 </table>
 </div>
 
-<!-- ─── COLORFUL DIVIDER ──────────────────────────────────────── -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<!-- ─── DIVIDER ────────────────────────────────────────────────── -->
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   GITHUB STATS & GRAPHS                        -->
@@ -174,16 +174,16 @@ fun_fact: "I don't build demos — I build systems that work in production."
 <div align="center">
 
 <a href="https://github.com/lucifer1642">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lucifer1642&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=C084FC&text_color=C9D1D9&ring_color=FF6B6B" alt="Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lucifer1642&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=C084FC&text_color=C9D1D9&ring_color=FF6B6B" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/lucifer1642">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=lucifer1642&theme=radical&hide_border=true&background=0D1117&ring=C084FC&fire=FF6B6B&currStreakLabel=4ECDC4&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FF6B6B&sideNums=FFC75F" alt="Streak" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=lucifer1642&theme=radical&hide_border=true&background=0D1117&ring=C084FC&fire=FF6B6B&currStreakLabel=4ECDC4&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FF6B6B&sideNums=FFC75F" alt="GitHub Streak" />
 </a>
 
 <br/>
 
 <a href="https://github.com/lucifer1642">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer1642&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&langs_count=8" alt="Top Langs" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer1642&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 </a>
 
 </div>
@@ -194,41 +194,12 @@ fun_fact: "I don't build demos — I build systems that work in production."
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucifer1642&bg_color=0D1117&color=C084FC&line=FF6B6B&point=FFC75F&area=true&area_color=845EC2&hide_border=true&custom_title=🔥%20Contribution%20Graph" width="95%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucifer1642&bg_color=0D1117&color=C084FC&line=FF6B6B&point=FFC75F&area=true&area_color=845EC2&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph" />
 
 </div>
 
-<br/>
-
-<!-- ─── TROPHY SHOWCASE ───────────────────────────────────────── -->
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lucifer1642&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" alt="Trophies" />
-
-</div>
-
-<!-- ─── COLORFUL DIVIDER ──────────────────────────────────────── -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                 SNAKE CONTRIBUTION GRAPH                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" /> &nbsp;Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucifer1642/lucifer1642/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucifer1642/lucifer1642/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/lucifer1642/lucifer1642/output/github-snake.svg" />
-</picture>
-
-</div>
-
-<!-- ─── COLORFUL DIVIDER ──────────────────────────────────────── -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<!-- ─── DIVIDER ────────────────────────────────────────────────── -->
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       CONNECT WITH ME                          -->

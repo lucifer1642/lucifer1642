@@ -4,11 +4,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ashwini%20Kumar%20Kar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML%20Engineer%20%7C%20Researcher%20%7C%20Patent%20Holder%20%7C%20Builder&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ashwini%20Kumar%20Kar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20%C2%B7%20Researcher%20%C2%B7%20Builder&descAlignY=58&descSize=16" width="100%" />
 
 <!-- ─── TYPING ANIMATION ─────────────────────────────────────── -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+intelligent+systems+that+solve+real+problems+%F0%9F%A7%A0;Swin+Transformer+%7C+95%25+Accuracy+%7C+Retinal+Disease+Detection+%F0%9F%91%81;Patent+Holder+%7C+Anti-Theft+Blood+Tracking+System+%F0%9F%A9%B8;KIIT+University+%7C+9.66+CGPA+%7C+MCA+%40+LPU+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+intelligent+systems+that+solve+real+problems+%F0%9F%A7%A0;95%25+Accuracy+in+Retinal+Disease+Detection+%F0%9F%91%81;KIIT+University+%7C+9.66+CGPA+%7C+MCA+%40+LPU+%F0%9F%8E%93;Deep+Learning+%7C+Computer+Vision+%7C+Full+Stack+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -132,7 +132,7 @@ fun_fact: "I don't build demos — I build systems that work in production."
 
 ### 🌐 Portfolio Website
 **Personal Portfolio & Blog**
-> Live at [ashwinikumarkar.online](https://ashwinikumarkar.online)
+> Live at [ashwinikumarkar.info](https://ashwinikumarkar.info)
 
 `Next.js` `Three.js` `Framer Motion` `GSAP`
 
@@ -186,7 +186,7 @@ fun_fact: "I don't build demos — I build systems that work in production."
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ashwinikumarkar.online-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ashwinikumarkar.online)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ashwinikumarkar.info-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ashwinikumarkar.info)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashwinikumarkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwinikumarkar)
 [![GitHub](https://img.shields.io/badge/GitHub-lucifer1642-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucifer1642)
 [![Email](https://img.shields.io/badge/Email-ashwinikumarkar16@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwinikumarkar16@gmail.com)

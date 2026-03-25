@@ -1,4 +1,4 @@
-<![CDATA[<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    ANIMATED HEADER BANNER                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -29,9 +29,9 @@ current_focus:
   - Emergency Healthcare Systems
   - ML-Powered Demand Forecasting
 achievements:
-  - 🏆 Patent Filed — Anti-Theft Blood Tracking System (Feb 2026)
-  - 📄 IEEE OCIT Paper — Retinal Disease Classification
-  - 🎖️ Best NSS Volunteer & Rajya Puraskar Awardee
+  - "🏆 Patent Filed — Anti-Theft Blood Tracking System (Feb 2026)"
+  - "📄 IEEE OCIT Paper — Retinal Disease Classification"
+  - "🎖️ Best NSS Volunteer & Rajya Puraskar Awardee"
 fun_fact: "I don't build demos — I build systems that work in production."
 ```
 
@@ -214,4 +214,3 @@ fun_fact: "I don't build demos — I build systems that work in production."
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
-]]>
